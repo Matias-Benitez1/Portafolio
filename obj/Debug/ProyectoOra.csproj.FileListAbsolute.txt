@@ -1,0 +1,81 @@
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe.config
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.pdb
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csprojResolveAssemblyReference.cache
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Form1.resources
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Properties.Resources.resources
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.exe
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.pdb
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Personas.resources
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmAñadir.resources
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmActualizar.resources
+C:\Users\Jose\source\repos\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmEliminar.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe.config
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.pdb
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csprojAssemblyReference.cache
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Form1.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmActualizar.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmAñadir.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmEliminar.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Personas.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Properties.Resources.resources
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.GenerateResource.cache
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.CoreCompileInputs.cache
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.exe
+C:\Users\Joser\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.pdb
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe.config
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.pdb
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Form1.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmActualizar.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmAñadir.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmEliminar.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Personas.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Properties.Resources.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.exe
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.pdb
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearTareas.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.AñadirTareas.resources
+C:\Users\matia\Desktop\Login y CRUD ORACLE PROC ALMACENADOS\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarTareas.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearRoles.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearAreas.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearFTareas.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearJerarquia.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearUnidadesInternas.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.EliminarArea.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.EliminarFlujoTarea.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.EliminarJerarquia.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.EliminarUnidades.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmResumen.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmRoles.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.EliminarRol.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Main.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmArea.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmFlujoTareas.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmJerarquia.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmUnidadesInternas.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Login.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarArea.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarFlujoTarea.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarJerarquia.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarRoles.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarUnidades.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.frmUsuarios.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.Properties.Resources.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe.config
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.exe
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\bin\Debug\ProyectoOra.pdb
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.exe
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.pdb
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.ModificarUsuarios.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.CrearUsuarios.resources
+C:\Users\matia\Desktop\ProyectoOra\ProyectoOra\obj\Debug\ProyectoOra.EliminarUsuarios.resources
